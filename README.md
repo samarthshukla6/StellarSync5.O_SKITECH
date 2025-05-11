@@ -50,7 +50,7 @@ A futuristic healthcare platform powered by voice, vision, and multi-agent AI sy
 **⚙️ Built With**: Pose estimation (YOLO V8), skeletal tracking.  
 **🧩 Solves**: Inefficient self-led fitness routines.
 
-![Image](https://github.com/user-attachments/assets/e85fdd7f-e7fb-45ce-b0ce-532eb87585fe)
+<img width="1706" alt="Image" src="https://github.com/user-attachments/assets/962a81e3-11a8-4bce-af12-6cd26753c7f5" />
 
 ---
 
